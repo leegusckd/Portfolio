@@ -1,5 +1,5 @@
 # Project Portfolio - Hyun Chang Lee (James)
-Hello, my name is James Lee and welcome to my portfolio. I am an aspiring data scientist that has found passion in programming and data science. This is a portfolio that is a compilation of my projects, skillsets, and certifications. Each project listed here is an important learning milestone in my coding journey amd I am constantly updating this portfolio as my add new skills. The main languages that are used are Python, JavaScript, HTML and CSS. 
+Hello and welcome to my portfolio! I am an aspiring data scientist that is currently venturing through the world of data. This is a portfolio that is a compilation of my projects, skills, and other important learning milestones. I am passionate and committed to learning. I am constantly updating this portfolio as my knowledge and skillsets grow. The main languages that are used in my projects are Python, JavaScript, HTML and CSS. 
 
 ## Data Science Projects
 
