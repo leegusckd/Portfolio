@@ -8,3 +8,4 @@ Hello and welcome to my portfolio! I am an aspiring data scientist that is curre
 ## Core Competencies
 
 ## Certificates
+- [Introduction to Python Programming](https://github.com/leegusckd/Portfolio/blob/main/Certificates/1--Introduction-to-Python-Programming.pdf)
