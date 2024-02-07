@@ -5,6 +5,12 @@ Hello and welcome to my portfolio! I am an aspiring data scientist that is curre
 
 ## JavaScript, HTML, and CSS Projects
 
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/etch-a-sketch.png"> **[Etch-a-Sketch](https://github.com/leegusckd/etch-a-sketch)**
+
+A fun interactive project in which I recreated a classic Etch-A-Sketch drawing toy as a web application. This project combines the use of JavaScript, HTML, and CSS to allow for Document Object Model (DOM) manipulation. Users can interact and experiment with various drawing tools and change grid size. [Live Preview](https://leegusckd.github.io/etch-a-sketch/)  
+
+#
+
 ## Core Competencies
 
 - **Languages**: Python, JavaScript, HTML/CSS
