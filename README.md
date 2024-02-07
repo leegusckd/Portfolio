@@ -7,6 +7,10 @@ Hello and welcome to my portfolio! I am an aspiring data scientist that is curre
 
 ## Core Competencies
 
+- **Languages**: Python, JavaScript, HTML/CSS
+- **Developer Tools**: Jupyter Notebook, VS Code, GitHub
+- **Libraries**: Pandas, NumPy, Matplotlib
+
 ## Certificates
 - [Introduction to Python Programming](https://github.com/leegusckd/Portfolio/blob/main/Certificates/1--Introduction-to-Python-Programming.pdf)
 - [For Loops and Conditional Statements in Python](https://github.com/leegusckd/Portfolio/blob/main/Certificates/2--For-Loops-and-Conditional-Statements-in-Python.pdf)
