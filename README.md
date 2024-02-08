@@ -13,6 +13,30 @@ A fun interactive project in which I recreated a classic Etch-A-Sketch drawing t
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/rock-paper-scissors.png"> **[Rock Paper Scissors](https://github.com/leegusckd/TOP_RockPaperScissors)**
+
+A rock paper scissors game that can be played in the browser. Creating using Javascript and basic HTML/CSS. 
+
+[Live Preview](https://leegusckd.github.io/TOP_RockPaperScissors/)  
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/rock-paper-scissors.png"> **[Landing Page](https://github.com/leegusckd/Landing_Page)**
+
+A sample webpage based on some of my favorite sports teams. 
+
+[Live Preview](https://leegusckd.github.io/Landing_Page/)  
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/rock-paper-scissors.png"> **[Rock Paper Scissors](https://github.com/leegusckd/TOP_RockPaperScissors)**
+
+A sample webpage 
+
+[Live Preview](https://leegusckd.github.io/TOP_RockPaperScissors/)  
+
+#
+
 ## Core Competencies
 
 - **Languages**: Python, JavaScript, HTML/CSS
