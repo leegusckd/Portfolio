@@ -23,7 +23,7 @@ A rock paper scissors game that can be played in the browser. Creating using Jav
 
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/output-onlinepngtools%20(4).png"> **[Landing Page](https://github.com/leegusckd/Landing_Page)**
 
-A sample webpage based on some of my favorite sports teams. Created using HTML and CSS. 
+A sample webpage based on some of my favorite sports teams. Created using HTML and CSS. A sample webpage based on some of my favorite sports teams. Created using HTML and CSS. 
 
 [Live Preview](https://leegusckd.github.io/Landing_Page/)  
 
@@ -31,7 +31,8 @@ A sample webpage based on some of my favorite sports teams. Created using HTML a
 
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/output-onlinepngtools%20(3).png"> **[Recipes](https://github.com/leegusckd/odin-recipes)**
 
-A simple website that consists of a main index page that has links to a couple of recipes. 
+A simple website that consists of a main index page that has links to a couple of recipes. A simple website that consists of a main index page that has links to a couple of recipes. 
+
 
 [Live Preview](https://leegusckd.github.io/odin-recipes/)  
 
