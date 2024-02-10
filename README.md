@@ -3,11 +3,35 @@ Hello and welcome to my portfolio! I am an aspiring data scientist that is curre
 
 ## Data Science Projects
 
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/apps.jpg"> **[Mobile App Profitability](https://github.com/leegusckd/etch-a-sketch)**
+
+An in-depth look at the most profitable mobile apps on IOS/Google Play. The most popular genres and categories for mobile apps are identified, providing insights on what kind of apps will attract the most number of users. 
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/cars.jpg"> **[Predictive Analysis of Used Car Prices](https://github.com/leegusckd/etch-a-sketch)**
+
+In this project, I created a statistical linear model to predict the prices of a used Tesla vehicle based on mileage. A random sample of 50 random vehicles was analyzed using Python and statistical methods. Then, I test the reliability of the resulting linear model using the coefficient of determination. 
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/hacker1.png"> **[Analyzing Posts and Comments on Hacker News](https://github.com/leegusckd/etch-a-sketch)**
+
+Hacker News is a social media platform where people can make posts about topics related to the tech field. This project demonstrates the use of strings, date and times, and object oriented programming in order to determine the type of posts and the specific times in which a post receives the most amount of comments. 
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/police-1282330_1280.jpg"> **[Helicopter Prison Break Investigation](https://github.com/leegusckd/etch-a-sketch)**
+
+An analysis of a dataset containing information of helicopter prison escapes around the world. The data was analyzed using Python to determine the year in which the most helicopter prison break attemps occurred, and the countries in which these escape attempts occurred the most. 
+
+#
+
 ## JavaScript, HTML, and CSS Projects
 
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/output-onlinepngtools%20(1).png"> **[Etch-a-Sketch](https://github.com/leegusckd/etch-a-sketch)**
 
-A fun interactive project in which I recreated a classic Etch-A-Sketch drawing toy as a web application. This project combines the use of JavaScript, HTML, and CSS to allow for Document Object Model (DOM) manipulation. Users can interact and experiment with various drawing tools.
+A fun interactive project in which I recreated a classic Etch-A-Sketch drawing toy as a web application. This project combines the use of JavaScript, HTML, and CSS to allow for Document Object Model (DOM) manipulation. Users can interact and experiment with various drawing tools. 
 
 [Live Preview](https://leegusckd.github.io/etch-a-sketch/)  
 
@@ -15,7 +39,7 @@ A fun interactive project in which I recreated a classic Etch-A-Sketch drawing t
 
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/output-onlinepngtools%20(2).png"> **[Rock Paper Scissors](https://github.com/leegusckd/TOP_RockPaperScissors)**
 
-A rock paper scissors game that can be played in the browser. Creating using Javascript and basic HTML/CSS. 
+A rock-paper-scissors game that can be played in the browser. The player will play several rounds of rock-paper-scissors, and the first one to win 5 rounds will be determined the winner. Creating using Javascript and basic HTML/CSS. 
 
 [Live Preview](https://leegusckd.github.io/TOP_RockPaperScissors/)  
 
@@ -23,7 +47,7 @@ A rock paper scissors game that can be played in the browser. Creating using Jav
 
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/output-onlinepngtools%20(4).png"> **[Landing Page](https://github.com/leegusckd/Landing_Page)**
 
-A sample webpage based on some of my favorite sports teams. Created using HTML and CSS. A sample webpage based on some of my favorite sports teams. Created using HTML and CSS. 
+A sample webpage based on some of my favorite sports teams. Created using HTML and designed with CSS to provide a basic webpage format using various colors and fonts. 
 
 [Live Preview](https://leegusckd.github.io/Landing_Page/)  
 
@@ -31,7 +55,7 @@ A sample webpage based on some of my favorite sports teams. Created using HTML a
 
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/output-onlinepngtools%20(3).png"> **[Recipes](https://github.com/leegusckd/odin-recipes)**
 
-A simple website that consists of a main index page that has links to a couple of recipes. A simple website that consists of a main index page that has links to a couple of recipes. 
+A simple website that consists of a main index page with clickable links. Each link will lead to another webpage that consists of a recipe for a specific kind of dish. 
 
 
 [Live Preview](https://leegusckd.github.io/odin-recipes/)  
