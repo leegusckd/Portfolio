@@ -39,7 +39,7 @@ A fun interactive project in which I recreated a classic Etch-A-Sketch drawing t
 
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/output-onlinepngtools%20(2).png"> **[Rock Paper Scissors](https://github.com/leegusckd/TOP_RockPaperScissors)**
 
-A rock-paper-scissors game that can be played in the browser. The player will play several rounds of rock-paper-scissors, and the first one to win 5 rounds will be determined the winner. Creating using Javascript and basic HTML/CSS. 
+A rock-paper-scissors game that can be played in the browser. The player will play several rounds of rock-paper-scissors, and the first one to win 5 rounds will be determined the winner. Creating using JavaScript and basic HTML/CSS. 
 
 [Live Preview](https://leegusckd.github.io/TOP_RockPaperScissors/)  
 
