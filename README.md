@@ -3,7 +3,7 @@ Hello and welcome to my portfolio! I am an aspiring data scientist that is curre
 
 ## Data Science Projects
 
-<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/apps.jpg"> **[Popular Mobile App Genres Analysis](https://github.com/leegusckd/Appstore_analysis)**
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/apps.jpg"> **[Popular Mobile App Genre Analysis](https://github.com/leegusckd/Appstore_analysis)**
 
 An in-depth look at the most profitable mobile apps on IOS/Google Play. The most popular genres and categories for mobile apps are identified, providing insights on what kind of apps will attract the greatest number of users. 
 
