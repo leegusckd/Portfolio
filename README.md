@@ -3,21 +3,21 @@ Hello and welcome to my portfolio! I am an aspiring data scientist that is curre
 
 ## Data Science Projects
 
-<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/hacker1.png"> **[Analyzing Posts and Comments on Hacker News](https://github.com/leegusckd/Analyzing-Hacker-News)**
-
-Hacker News is a social media platform where people can make posts about topics related to the tech field. This project demonstrates the use of strings, date and times, and object oriented programming in order to determine the type of posts and the specific times in which a post receives the most amount of comments. 
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/apps.jpg"> **[Popular Mobile App Genre Analysis](https://github.com/leegusckd/Appstore_analysis)**
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/apps.jpg"> **[Analyzing Popular Mobile App Genres](https://github.com/leegusckd/Appstore_analysis)**
 
 An in-depth look at the most profitable mobile apps on IOS/Google Play. The most popular genres and categories for mobile apps are identified, providing insights on what kind of apps will attract the greatest number of users. 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/cars.jpg"> **[Predictive Analysis of Used EV Prices](https://github.com/leegusckd/Used-Car-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/cars.jpg"> **[Predicting the Price of Used EVs](https://github.com/leegusckd/Used-Car-Analysis)**
 
 In this project, I created a statistical linear model to predict the prices of a used electric vehicles (EV) based on mileage. A random sample of 50 Tesla model 3 vehicles was analyzed using Python and statistical methods. Then, I test the reliability of the resulting linear model using various tools. 
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/hacker1.png"> **[How to Get More Comments on Hacker News](https://github.com/leegusckd/Analyzing-Hacker-News)**
+
+Hacker News is a social media platform where people can make posts about topics related to the tech field. This project demonstrates the use of strings, date and times, and object oriented programming in order to determine the type of posts and the specific times in which a post receives the most amount of comments. 
 
 #
 
