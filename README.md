@@ -7,11 +7,13 @@ Hello and welcome to my portfolio! I am an aspiring data scientist that is curre
 
 An in-depth look at the most profitable mobile apps on IOS/Google Play. The most popular genres and categories for mobile apps are identified, providing insights on what kind of apps will attract the greatest number of users. 
 
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/cars.jpg"> **[Predicting the Price of Used EVs](https://github.com/leegusckd/Used-Car-Analysis)**
 
 In this project, I created a statistical linear model to predict the prices of a used electric vehicles (EV) based on mileage. A random sample of 50 Tesla model 3 vehicles was analyzed using Python and statistical methods. Then, I test the reliability of the resulting linear model using various tools. 
+
 
 #
 
@@ -19,11 +21,13 @@ In this project, I created a statistical linear model to predict the prices of a
 
 Hacker News is a social media platform where people can make posts about topics related to the tech field. This project demonstrates the use of strings, date and times, and object oriented programming in order to determine the type of posts and the specific times in which a post receives the most amount of comments. 
 
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/police-1282330_1280.jpg"> **[Helicopter Prison Break Investigation](https://github.com/leegusckd/Helicopter-Prison-Break)**
 
 An analysis of a dataset containing information of helicopter prison escapes around the world. The data was analyzed using Python to determine the year in which the most helicopter prison break attempts occurred, and the countries in which these escape attempts occurred the most. 
+
 
 #
 
