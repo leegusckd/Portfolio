@@ -1,7 +1,14 @@
 # Project Portfolio - Hyun Chang Lee (James)
-Hello and welcome to my portfolio! I am an aspiring data scientist that is currently pursuing a Master's in Analytics at Georgia Tech. This portfolio is a compilation of my projects, skills, and other important learning milestones. I am passionate and committed to learning. I am constantly updating this portfolio as my knowledge and skillsets grow. The main languages that are used in my projects are Python, R, JavaScript, HTML and CSS. 
+Hello and welcome to my portfolio! I am an aspiring data scientist who is currently pursuing a Master's in Analytics at Georgia Tech. This portfolio is a compilation of my projects, skills, and other important learning milestones. I am passionate and committed to learning. I am constantly updating this portfolio as my knowledge and skillsets grow. The main languages that are used in my projects are Python, R, JavaScript, HTML and CSS. 
 
 ## Data Science Projects
+
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/data_diet.png"> **[The Data Driven Diet](https://github.com/leegusckd/Optimization_Diet_Problem)**
+
+Python | Optimization | Linear Programming
+
+A modern take on the classic "diet problem" of the 1930s. Developed an optimization model using linear programming to identify the most cost-efficient diet plan that satisfies nutritional requirements. This model minimizes food costs while ensuring that daily nutritional constraints are met for a balanced diet. 
+#
 
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/apps.jpg"> **[Analyzing Popular Mobile App Genres](https://github.com/leegusckd/Appstore_analysis)**
 
