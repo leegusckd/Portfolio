@@ -68,9 +68,11 @@ A simple website that consists of a main index page with clickable links. Each l
 
 ## Core Competencies
 
-- **Languages**: Python, JavaScript, HTML/CSS
-- **Developer Tools**: Jupyter Notebook, VS Code, GitHub
-- **Libraries**: Pandas, NumPy, Matplotlib
+- **Languages**: Python, R, JavaScript, HTML/CSS
+- **Analytical Skills**: Machine Learning, Time-series Models, Regression Analysis, Design of Experiments, Probability-based Models, Optimization
+- **Competencies:** Excellent Communication, Customer Service, Public Speaking
+- **Languages:** English (Native), Korean (Native)
+
 
 ## Certificates
 - [Introduction to Python Programming](https://github.com/leegusckd/Portfolio/blob/main/Certificates/1--Introduction-to-Python-Programming.pdf)
