@@ -8,12 +8,15 @@ Hello and welcome to my portfolio! I am an aspiring data scientist who is curren
 Python | Optimization | Linear Programming
 
 A modern take on the classic "diet problem" of the 1930s. Developed an optimization model using linear programming to identify the most cost-efficient diet plan that satisfies nutritional requirements. This model minimizes food costs while ensuring that daily nutritional constraints are met for a balanced diet. 
+
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/apps.jpg"> **[Analyzing Popular Mobile App Genres](https://github.com/leegusckd/Appstore_analysis)**
 
 An in-depth look at the most profitable mobile apps on IOS/Google Play. The most popular genres and categories for mobile apps are identified, providing insights on what kind of apps will attract the greatest number of users. 
 
+<br>
 
 #
 
@@ -21,13 +24,14 @@ An in-depth look at the most profitable mobile apps on IOS/Google Play. The most
 
 In this project, I created a statistical linear model to predict the prices of a used electric vehicles (EV) based on mileage. A random sample of 50 Tesla model 3 vehicles was analyzed using Python and statistical methods. Then, I test the reliability of the resulting linear model using various tools. 
 
+<br>
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/hacker1.png"> **[How to Get More Comments on Hacker News](https://github.com/leegusckd/Analyzing-Hacker-News)**
 
 Hacker News is a social media platform where people can make posts about topics related to the tech field. This project demonstrates the use of strings, date and times, and object oriented programming in order to determine the type of posts and the specific times in which a post receives the most amount of comments. 
-
+<br>
 
 #
 
@@ -35,6 +39,7 @@ Hacker News is a social media platform where people can make posts about topics 
 
 An analysis of a dataset containing information of helicopter prison escapes around the world. The data was analyzed using Python to determine the year in which the most helicopter prison break attempts occurred, and the countries in which these escape attempts occurred the most. 
 
+<br>
 
 #
 
