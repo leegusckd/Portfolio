@@ -3,10 +3,9 @@ Hello and welcome to my portfolio! I am an aspiring data scientist who is curren
 
 ## Core Competencies
 
-- **Languages**: Python, R, JavaScript, HTML/CSS
+- **ProgrammingLanguages**: Python, R, JavaScript, HTML/CSS
 - **Analytical Skills**: Machine Learning, Time-series Models, Regression Analysis, Design of Experiments, Probability-based Models, Optimization
 - **Competencies:** Excellent Communication, Customer Service, Public Speaking
-- **Languages:** English (Native), Korean (Native)
 
 
 
