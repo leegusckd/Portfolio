@@ -13,7 +13,7 @@ Hello and welcome to my portfolio! I am an aspiring data scientist who is curren
 
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/data_diet.png"> **[The Data Driven Diet](https://github.com/leegusckd/Optimization_Diet_Problem)**
 
-Python | Optimization | Linear Programming
+**Python | Optimization | Linear Programming**
 
 A modern take on the classic "diet problem" of the 1930s. Developed an optimization model using linear programming to identify the most cost-efficient diet plan that satisfies nutritional requirements. This model minimizes food costs while ensuring that daily nutritional constraints are met for a balanced diet. 
 
