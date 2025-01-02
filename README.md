@@ -11,6 +11,17 @@ Hello and welcome to my portfolio! I am an aspiring data scientist who is curren
 
 ## Data Science Projects
 
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/credit_card.jpg"> **[Credit Card Approvals: SVM vs. k-NN Classification](https://github.com/leegusckd/Classification_SVM_KNN/tree/main?tab=readme-ov-file)**
+
+**R | Machine Learning | Classification | SVM | k-NN**
+
+Developed a predictive model that classifies credit card applicants as 'approved' or 'not approved' based on several predictors. Implemented a Support Vector Machine (SVM) to generate a classification equation and evaluated the performance of the classifier. Also created another model using the k-Nearest Neighbor (k-NN) algorithm and compared its performance with the SVM model. 
+
+
+
+#
+
+
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/data_diet.png"> **[The Data Driven Diet](https://github.com/leegusckd/Optimization_Diet_Problem)**
 
 **Python | Optimization | Linear Programming**
