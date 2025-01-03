@@ -8,6 +8,9 @@ Hello and welcome to my portfolio! I am an aspiring data scientist who is curren
 - **Competencies:** Excellent Communication, Customer Service, Public Speaking
 
 
+#
+
+#
 
 ## Data Science Projects
 
@@ -15,7 +18,7 @@ Hello and welcome to my portfolio! I am an aspiring data scientist who is curren
 
 **R | Machine Learning | Classification | SVM | k-NN**
 
-Developed a predictive model that classifies credit card applicants as 'approved' or 'not approved' based on several predictors. Implemented a Support Vector Machine (SVM) to generate a classification equation and evaluated the performance of the classifier. Also created another model using the k-Nearest Neighbor (k-NN) algorithm and compared its performance with the SVM model. 
+Developed a predictive model that classifies credit card applicants as 'approved' or 'not approved' based on several predictors. Used a Support Vector Machine (SVM) and the k-Nearest Neighbor (k-NN) algorithm to create a classifier and evaluate performances of the classifiers. 
 
 
 
