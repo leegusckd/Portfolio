@@ -8,9 +8,7 @@ Hello and welcome to my portfolio! I am an aspiring data scientist who is curren
 - **Competencies:** Excellent Communication, Customer Service, Public Speaking
 
 
-#
 
-#
 
 ## Data Science Projects
 
