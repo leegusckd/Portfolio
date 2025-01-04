@@ -12,7 +12,7 @@ Hello and welcome to my portfolio! I am an aspiring data scientist who is curren
 
 ## Data Science Projects
 
-<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/credit_card.jpg"> **[Credit Card Approvals: SVM vs. k-NN Classification](https://github.com/leegusckd/Classification_SVM_KNN/tree/main?tab=readme-ov-file)**
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/credit_card.jpg"> **[Classification of Credit Card Approvals](https://github.com/leegusckd/Classification_SVM_KNN/tree/main?tab=readme-ov-file)**
 
 **R | Machine Learning | Classification | SVM | k-NN**
 
