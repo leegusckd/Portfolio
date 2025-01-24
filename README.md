@@ -12,6 +12,15 @@ Hello and welcome to my portfolio! I am an aspiring data scientist who is curren
 
 ## Data Science Projects
 
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/crime.jpg"> **[Classification of Credit Card Approvals](https://github.com/leegusckd/Classification_SVM_KNN/tree/main?tab=readme-ov-file)**
+
+**R | Regression | Cross Validation**
+
+A linear regression model predicting the crime rate based on an crime rate data across 47 states in the US. The crime rate of a city was predicted by the model based on various socio-economic factors of crime rate. A cross validation method was used to assess the accuracy of the model's prediction.
+
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/credit_card.jpg"> **[Classification of Credit Card Approvals](https://github.com/leegusckd/Classification_SVM_KNN/tree/main?tab=readme-ov-file)**
 
 **R | Machine Learning | Classification | SVM | k-NN**
@@ -55,13 +64,7 @@ Hacker News is a social media platform where people can make posts about topics 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/police-1282330_1280.jpg"> **[Helicopter Prison Break Investigation](https://github.com/leegusckd/Helicopter-Prison-Break)**
 
-An analysis of a dataset containing information of helicopter prison escapes around the world. The data was analyzed using Python to determine the year in which the most helicopter prison break attempts occurred, and the countries in which these escape attempts occurred the most. 
-
-<br>
-
-#
 
 ## JavaScript, HTML, and CSS Projects
 
