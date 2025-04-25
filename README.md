@@ -38,13 +38,6 @@ Developed a predictive model that classifies credit card applicants as 'approved
 
 A modern take on the classic "diet problem" of the 1930s. Developed an optimization model using linear programming to identify the most cost-efficient diet plan that satisfies nutritional requirements. This model minimizes food costs while ensuring that daily nutritional constraints are met for a balanced diet. 
 
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/apps.jpg"> **[Analyzing Popular Mobile App Genres](https://github.com/leegusckd/Appstore_analysis)**
-
-An in-depth look at the most profitable mobile apps on IOS/Google Play. The most popular genres and categories for mobile apps are identified, providing insights on what kind of apps will attract the greatest number of users. 
-
 <br>
 
 #
