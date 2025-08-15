@@ -12,7 +12,7 @@ Hello and welcome to my portfolio! I am an aspiring data scientist who is curren
 
 ## Data Science Projects
 
-<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/crime.jpg"> **[Predicting Crime Rates of a City](https://github.com/leegusckd/Classification_SVM_KNN/tree/main?tab=readme-ov-file)**
+<img align="left" width="250" height="150" src="https://github.com/leegusckd/Portfolio/blob/main/Images/crime.jpg"> **[Predicting Crime Rates of a City](https://github.com/leegusckd/Predicting-Crime-Rates)**
 
 **R | Regression | Cross Validation**
 
